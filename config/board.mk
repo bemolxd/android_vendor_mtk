@@ -1,6 +1,9 @@
 # MTK Hardware
 BOARD_HAS_MTK_HARDWARE := true
 
+# Mediatek support
+BOARD_USES_MTK_HARDWARE := true
+
 # Display
 USE_OPENGL_RENDERER := true
 TARGET_FORCE_HWC_FOR_VIRTUAL_DISPLAYS := true
